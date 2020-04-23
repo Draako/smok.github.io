@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smok</title>
+    <link>https://smok.github.io/</link>
+    <description>Recent content on Smok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 15:45:09 +0100</lastBuildDate>
+    
+	<atom:link href="https://smok.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://smok.github.io/blog/my-first-post/</link>
+      <pubDate>Thu, 23 Apr 2020 15:45:09 +0100</pubDate>
+      
+      <guid>https://smok.github.io/blog/my-first-post/</guid>
+      <description>Hello! Hello to the yellow!</description>
+    </item>
+    
+  </channel>
+</rss>
